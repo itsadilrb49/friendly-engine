@@ -1,5 +1,4 @@
 
-//ch-6 Activity 6.1
 
 package game;
 import java.util.Scanner;
