@@ -1,4 +1,4 @@
-//ch-6 act 1.1
+
 
 package game; 
 public class WrongInputException extends RuntimeException 
