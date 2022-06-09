@@ -1,4 +1,3 @@
-//ch-6 act 1.2
 
 
 package game; 
