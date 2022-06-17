@@ -1,8 +1,6 @@
 
 
-//ch-8 act 1/4
 
-//package game; 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.BorderLayout;
